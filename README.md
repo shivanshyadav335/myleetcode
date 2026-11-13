@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/shivanshyadav335/myleetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/shivanshyadav335/myleetcode/tree/master/0412-fizz-buzz) |
+| [1603-design-parking-system](https://github.com/shivanshyadav335/myleetcode/tree/master/1603-design-parking-system) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shivanshyadav335/myleetcode/tree/master/0258-add-digits) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/shivanshyadav335/myleetcode/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/shivanshyadav335/myleetcode/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
