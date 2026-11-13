@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0065-valid-number](https://github.com/shivanshyadav335/myleetcode/tree/master/0065-valid-number) |
+| [0412-fizz-buzz](https://github.com/shivanshyadav335/myleetcode/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/shivanshyadav335/myleetcode/tree/master/0016-3sum-closest) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/shivanshyadav335/myleetcode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/shivanshyadav335/myleetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
