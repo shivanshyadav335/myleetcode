@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shivanshyadav335/myleetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0065-valid-number](https://github.com/shivanshyadav335/myleetcode/tree/master/0065-valid-number) |
 | [0412-fizz-buzz](https://github.com/shivanshyadav335/myleetcode/tree/master/0412-fizz-buzz) |
 ## Array
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shivanshyadav335/myleetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/shivanshyadav335/myleetcode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/shivanshyadav335/myleetcode/tree/master/1572-matrix-diagonal-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shivanshyadav335/myleetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
